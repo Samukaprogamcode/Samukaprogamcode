@@ -1,67 +1,75 @@
-# Olá, eu sou [Seu Nome] 👋
+<h1 align="left">Eai 👋 Como vai? Bem vindo!</h1>
 
-> Estou me aventurando no mundo do **desenvolvimento front-end** e atualmente estou aprendendo as tecnologias que me ajudarão a seguir essa carreira. Meu objetivo é me tornar um desenvolvedor front-end e construir interfaces de usuário dinâmicas e responsivas.
+###
 
-![Imagem de Perfil](https://via.placeholder.com/300x300.png?text=Meu+Perfil)
+<h2 align="left">👨‍🎓Sobre mim:</h2>
 
-## 🚀 Sobre Mim
+###
 
-Olá! Sou [Seu Nome], um estudante de desenvolvimento web que está mergulhando no mundo do **front-end**. Tenho um grande interesse em criar experiências interativas e agradáveis para os usuários. No momento, estou aprimorando minhas habilidades em **HTML**, **CSS**, **SASS** e **JavaScript**, buscando oportunidades de aplicar meus conhecimentos em projetos reais.
+<p align="left">Me chamo Samuel, Moro no Brasil e estou estudando para me tornar um Dev Front-End, pois me considero criativo e quero me desenvolver na área, estou apredendo então vou postar oque eu aprendo nos cursos que estou realizando e vou postar alguns projetos que estou desenvolvendo!</p>
 
-## 💼 Conhecimentos
+###
 
-Aqui estão algumas das tecnologias que estou aprendendo e aplicando atualmente:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samukaprogamcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samukaprogamcode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-### HTML5
-![HTML](https://via.placeholder.com/100x100.png?text=HTML5)
+###
 
-- Estruturação de páginas web
-- Semântica HTML5
-- Formulários e acessibilidade
+<p align="left">✨ Sou criativo<br>📚 Estou em constante estudo<br>🎯 Gosto de seguir metas<br>🎲 Gosto de pensar positivo!</p>
 
-### CSS3
-![CSS](https://via.placeholder.com/100x100.png?text=CSS3)
+###
 
-- Estilização de páginas web
-- Layouts responsivos com Flexbox e Grid
-- Animações e transições
+<h2 align="left">❇️ Codificações aprendidas:</h2>
 
-### SASS
-![SASS](https://via.placeholder.com/100x100.png?text=SASS)
+###
 
-- Pré-processador CSS
-- Variáveis, mixins e funções
-- Modularização de estilos
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+</div>
 
-### JavaScript
-![JavaScript](https://via.placeholder.com/100x100.png?text=JS)
+###
 
-- Manipulação do DOM
-- Funções assíncronas (promises, async/await)
-- Desenvolvimento de interatividade em páginas web
+<h2 align="left">🏫 Aprendendo...</h2>
 
-## 📞 Contatos
+###
 
-Fique à vontade para entrar em contato comigo!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
-- **Instagram**: [@seuinstagram](https://www.instagram.com/seuinstagram)
-- **LinkedIn**: [Meu Perfil no LinkedIn](https://www.linkedin.com/in/seuperfil)
-- **WhatsApp**: [Clique aqui para conversar](https://wa.me/seunumerodetelefone)
+###
 
-## 📚 Projetos
+<img src="https://raw.githubusercontent.com/Samukaprogamcode/Samukaprogamcode/output/snake.svg" alt="Snake animation" />
 
-Aqui estão alguns dos projetos em que estou trabalhando:
+###
 
-- [Projeto 1](https://github.com/usuario/projeto1)
-- [Projeto 2](https://github.com/usuario/projeto2)
-- [Projeto 3](https://github.com/usuario/projeto3)
+<h2 align="left">📲Contatos:</h2>
 
-## 🌱 O que estou aprendendo atualmente
+###
 
-- **React**: Estou começando a aprender React para construir interfaces de usuário interativas.
-- **Git/GitHub**: Melhorando minhas habilidades de controle de versão e colaboração.
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
----
-
-> "O caminho para o sucesso é sempre em construção." - [Seu Nome]
-
+###
